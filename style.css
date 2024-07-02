@@ -1,0 +1,46 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #202124;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.link-cabecalho{
+    color: rgba(0,0,0,.87);
+    font-size: 13px;
+}
+
+.icone-bolas {
+    stroke: #5f6368;
+
+}
+
+.botao-login {
+    background-color: #1a73e8;
+    color:#ffffff;
+    padding: 10px 30px;
+    font-family: Google Sans,Roboto,Helvetica,Arial,sans-serif;
+    font-weight:600;
+    border-radius: 4px;
+    font-size: 14px;
+        
+}
+
+footer{
+    background-color: #F2F2F2;
+}
+
+.caixa-rodape{
+    padding: 15px 30px;
+}
+
+.caixa-rodape--borda{
+    border-bottom: 1px solid #dadce0;
+}
