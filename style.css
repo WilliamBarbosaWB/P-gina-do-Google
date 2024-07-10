@@ -7,6 +7,25 @@
     color: #202124;
 }
 
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-end;
+    align-items: center;
+    margin-top: 10px;
+    margin-right: 10px;
+    gap:20px;
+}
+
+
+main {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+
+}
 
 a{
     text-decoration: none;
