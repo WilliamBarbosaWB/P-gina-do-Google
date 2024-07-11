@@ -63,3 +63,31 @@ footer{
 .caixa-rodape--borda{
     border-bottom: 1px solid #dadce0;
 }
+
+.icone-lupa {
+    fill: #5f6368;
+    width: 20px;
+    height: 20px;
+}
+
+.caixa-rodape {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+
+}
+
+.termos {
+    display: flex;
+    gap: 10px;
+}
+
+.caixa-links {
+    display: flex;
+    gap: 10px;
+}
+
+.conteudo-principal {
+    display: flex;
+    flex-direction: column;
+}
